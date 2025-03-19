@@ -85,6 +85,13 @@ section h3 {
   color: #555;
 }
 
+.participants-list {
+  margin-top: 10px;
+  padding-left: 20px;
+  list-style-type: circle;
+  color: #333;
+}
+
 .form-group {
   margin-bottom: 15px;
 }
